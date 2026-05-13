@@ -1,0 +1,27 @@
+{
+  "name": "codingcamp-11may26-dionisiusps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dionisius95/CodingCamp-11May26-dionisiusps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dionisius95/CodingCamp-11May26-dionisiusps/issues"
+  },
+  "homepage": "https://github.com/dionisius95/CodingCamp-11May26-dionisiusps#readme",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.6",
+    "fast-check": "^4.8.0",
+    "jsdom": "^29.1.1",
+    "vitest": "^4.1.6"
+  }
+}
